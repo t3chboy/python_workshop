@@ -1,5 +1,5 @@
 from abc import ABCMeta as ABC, abstractmethod
-
+from fynd_request_builder import request_builder
 
 ## Define Image Abstract Classses
 class ImageReader:
